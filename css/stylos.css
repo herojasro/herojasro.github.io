@@ -23,7 +23,7 @@ h1{
 	color: #FA743E;
 	color: black;
 	margin-left:10px;
-	font-size: 50px;
+	font-size: 30px;
 	text-align: center;
 }
 h2{
@@ -58,8 +58,8 @@ nav ul{
 	list-style: none;
 	margin: auto;
 	padding: 0px; 
-	height: 20px;
-	width: 700px; 
+	height: 30px;
+	width: 800px; 
 }
 nav ul li{
 	float: left;
@@ -69,7 +69,7 @@ nav ul li a{
 	color: #FFF;
 	line-height: 30px;
 	margin-top: 2px;
-	width: 100px;
+	width: 150px;
 	display: block;
 	text-align: center;
 	border-radius: 10px;
@@ -132,9 +132,10 @@ img{
 }
 .logo{
 	float: left;
-	margin: 20px;
-	margin-top: 0px;
-	width: 280px;
+	padding: 0px;
+	margin: 5px;
+	margin-top: 5px;
+	width: 260px;
 	height: 70px;
 }
 .git{
@@ -188,10 +189,11 @@ img{
 }
 .texto{
 	margin-right: 150px;
-	margin-left: 160px;
+	margin-left: 150px;
+	margin-top: 0px; 
 	float: left;
-	width: 700px;
-	height: 10px;
+	width: 722px;
+	height: 0px;
     color: #FA743E;
 }
 
