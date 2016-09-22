@@ -12,6 +12,8 @@ font-family: "FRABKUNAD",Arial;
 }
 /*Etiquetas*/
 body{
+	margin: 0px;
+	padding: 0px;
 	background: #CCC;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -131,9 +133,9 @@ img{
 .logo{
 	float: left;
 	margin: 20px;
-	margin-top: 5px;
-	width: 270px;
-	height: 60px;
+	margin-top: 0px;
+	width: 280px;
+	height: 70px;
 }
 .git{
 	
@@ -185,10 +187,11 @@ img{
 	clear: both;
 }
 .texto{
-	margin-top: 8px;
+	margin-right: 150px;
+	margin-left: 160px;
 	float: left;
-	width: 300px;
-	height: 20px;
+	width: 700px;
+	height: 10px;
     color: #FA743E;
 }
 
