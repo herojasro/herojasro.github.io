@@ -129,11 +129,19 @@ img{
 
   
 /*Clases*/
+
+.informacion{
+    float: top;
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 300px;
+	width: 400px;
+	height: 40px;
+}
 .derechos{
-	float: left;
-	padding: 5px;
-	margin: 5px;
-	margin-top: 15px;
+	float: top;
+	padding: 0px;
+	margin-left: 270px;
 	width: 400px;
 	height: 40px;
 }
