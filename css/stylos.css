@@ -84,7 +84,7 @@ nav ul li a:hover{
 section{
 	width: 715px;
 	background: white;
-	height: 600px;
+	height: 1400px;
 	float: left;
 	margin-top: 0px;
 	border-radius: 10px;
@@ -92,7 +92,7 @@ section{
 aside{
 	width: 285px;
 	background: #666;
-	height: 600px;
+	height: 1400px;
 	float: left;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -139,11 +139,16 @@ img{
 	height: 70px;
 }
 .git{
-	
-    margin-left: 200px;
 	margin-top: 0px;
+    margin-left: 200px;
 	width: 300px;
 	height: 300px;
+}
+.ecbti{
+	margin-left: 250px;
+	margin-top: 0px;
+	width: 250px;
+	height: 200px;
 }
 .social{
 	float: right;
