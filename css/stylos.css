@@ -34,11 +34,18 @@ h2{
 	text-align: left;
 }
 h3{
-	font-family: 'Days One', sans-serif;
+	font-family: "FRABKUNAD",Arial;
 	color: white;
 	font-size: 15px;
 	text-align: center;
 }
+h4{
+	font-family: "FRABKUNAD",Arial;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+}
+
 header{
 	width: 1000px;
 	height: 140px;
@@ -100,7 +107,7 @@ aside{
 }
 footer{
 	width: 1000px;
-	height: 50px;
+	height: 200px;
 	background: #000;
 	float: left;
 	margin-top: 0px;
@@ -122,7 +129,22 @@ img{
 
   
 /*Clases*/
-
+.derechos{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	margin-top: 15px;
+	width: 400px;
+	height: 40px;
+}
+.unad_inferior{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	margin-top: 10px;
+	width: 230px;
+	height: 40px;
+}
 .bolivar{
 	margin: 20px;
 	margin-top: 20px;
@@ -135,8 +157,8 @@ img{
 	padding: 0px;
 	margin: 5px;
 	margin-top: 5px;
-	width: 260px;
-	height: 70px;
+	width: 250px;
+	height: 50px;
 }
 .git{
 	margin-top: 0px;
